@@ -4,7 +4,7 @@ JSON databases suck ass.
 
 BSON databases suck even worse ass.
 
-Introducint the new, revolutionary,
+Introducing the new, revolutionary,
 
 **CSSDatabase**
 
